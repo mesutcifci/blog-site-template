@@ -72,3 +72,9 @@
         max-width: 100% !important;
     }
 }
+
+@media(max-width:880px) {
+    .article-header-heading {
+      font-size: calc(1.5rem + 2vw);    
+    }   
+}
